@@ -1,52 +1,58 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
+# My Notes — ZAINAB ALABI
 
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
-
+My Cloud and AI Security Bootcamp (Orientation)
 ---
 
 ## Key Concepts I Learned
 
-<!-- Write the main ideas covered in today's session -->
-
--
--
--
+- GitHub workflow basics: creating accounts, forking repos, syncing, committing changes
+- One of the ideas covered is the importance of security, why security matters.
+- The importance of the bootcamp, what to expect and what is required of participant.
 
 ---
 
 ## Lab / Hands-On Work
 
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
+- Created a GitHub account at https://github.com/
+- Downloaded and forked the assignment template repository
+- Synced the forked repo to my account
+- Made commits and practiced contributing to a repository
+- Enabled 2FA on the account (This is to secure my GitHub account)
+
 
 ### What I did
+
+- Successfully created my GitHub account.
+- Explored several GitHub features demonstrated during the session.
+- Enabled Two-Factor Authentication (2FA) on my GitHub account to improve its security.
+- Created a repository and practiced forking, syncing, and contributing to repositories.
+- Documented my notes and key lessons from the orientation in my personal notebook
 
 
 ### What happened / Result
 
+- GitHub account is live and secured.
+- Successfully forked the repo, synced it, and made my first commits
+- The forked MNSUG page now shows up on my GitHub overview
+- I became more comfortable navigating GitHub and performing basic version control tasks.
+
 
 ### Challenges I faced
-
+- I did not encounter any major challenges during today's session.
 
 ---
 
 ## My Takeaways
 
-<!-- What was most valuable to you personally from this session? -->
-
+- One of the biggest lessons I took away from today's session is the importance of being punctual and committed.
+- Respecting time shows professionalism and demonstrates respect for the mentors, moderators, and fellow participants.
+- Consistency and discipline will play a major role in successfully completing this bootcamp.
 
 ---
 
 ## Questions I Still Have
 
-<!-- Anything you want to follow up on or ask the mentor -->
-
--
--
+- On the GitHub account, how do I navigate to resources of the first class to help me stay ahead?.
 
 ---
 
@@ -54,8 +60,8 @@
 
 <!-- Any links, docs, or Microsoft Learn modules you found helpful -->
 
--
+- 
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: [ZAINAB ALABI] * USERNAME: Zeeblings
